@@ -1,0 +1,7 @@
+{
+  "name": "ISO-QMS Digital Architect",
+  "description": "A high-compliance ISO 9001:2015–2026 Digital Quality Management System for manufacturing and construction, strictly adhering to server-authoritative architecture and PostgreSQL-locked data policies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

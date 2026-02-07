@@ -1,0 +1,13 @@
+
+{
+  "name": "iso-qms-frontend",
+  "version": "1.0.0",
+  "description": "ISO 9001 High-Compliance Digital QMS Frontend (Supabase Locked)",
+  "main": "index.html",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.4.5",
+    "typescript": "^5.1.6"
+  }
+}
